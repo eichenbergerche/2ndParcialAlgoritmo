@@ -1,0 +1,16 @@
+/home/charles/Documents/PROGRAMACION/ALGORITMOS/test/obj/Debug/net5.0/test.vbprojAssemblyReference.cache
+/home/charles/Documents/PROGRAMACION/ALGORITMOS/test/obj/Debug/net5.0/test.GeneratedMSBuildEditorConfig.editorconfig
+/home/charles/Documents/PROGRAMACION/ALGORITMOS/test/obj/Debug/net5.0/test.AssemblyInfoInputs.cache
+/home/charles/Documents/PROGRAMACION/ALGORITMOS/test/obj/Debug/net5.0/test.AssemblyInfo.vb
+/home/charles/Documents/PROGRAMACION/ALGORITMOS/test/obj/Debug/net5.0/test.vbproj.CoreCompileInputs.cache
+/home/charles/Documents/PROGRAMACION/ALGORITMOS/test/bin/Debug/net5.0/test
+/home/charles/Documents/PROGRAMACION/ALGORITMOS/test/bin/Debug/net5.0/test.deps.json
+/home/charles/Documents/PROGRAMACION/ALGORITMOS/test/bin/Debug/net5.0/test.runtimeconfig.json
+/home/charles/Documents/PROGRAMACION/ALGORITMOS/test/bin/Debug/net5.0/test.runtimeconfig.dev.json
+/home/charles/Documents/PROGRAMACION/ALGORITMOS/test/bin/Debug/net5.0/test.dll
+/home/charles/Documents/PROGRAMACION/ALGORITMOS/test/bin/Debug/net5.0/ref/test.dll
+/home/charles/Documents/PROGRAMACION/ALGORITMOS/test/bin/Debug/net5.0/test.pdb
+/home/charles/Documents/PROGRAMACION/ALGORITMOS/test/obj/Debug/net5.0/test.dll
+/home/charles/Documents/PROGRAMACION/ALGORITMOS/test/obj/Debug/net5.0/ref/test.dll
+/home/charles/Documents/PROGRAMACION/ALGORITMOS/test/obj/Debug/net5.0/test.pdb
+/home/charles/Documents/PROGRAMACION/ALGORITMOS/test/obj/Debug/net5.0/test.genruntimeconfig.cache

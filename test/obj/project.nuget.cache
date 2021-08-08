@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "VuWkU3poLXoneDqNXByKlDUCZoLbI+kuOumV/hkG1q9OD9nGoeOpni+1IbEGDd69dPVaRh0GFw/zV+3Uod3OTg==",
+  "success": true,
+  "projectFilePath": "/home/charles/Documents/PROGRAMACION/ALGORITMOS/test/test.vbproj",
+  "expectedPackageFiles": [
+    "/home/charles/.nuget/packages/microsoft.aspnetcore.app.ref/5.0.0/microsoft.aspnetcore.app.ref.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
