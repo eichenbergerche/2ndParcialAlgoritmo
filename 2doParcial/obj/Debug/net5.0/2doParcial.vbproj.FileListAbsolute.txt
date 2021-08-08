@@ -1,0 +1,5 @@
+/home/charles/Documents/PROGRAMACION/ALGORITMOS/2doParcial/obj/Debug/net5.0/2doParcial.vbprojAssemblyReference.cache
+/home/charles/Documents/PROGRAMACION/ALGORITMOS/2doParcial/obj/Debug/net5.0/2doParcial.GeneratedMSBuildEditorConfig.editorconfig
+/home/charles/Documents/PROGRAMACION/ALGORITMOS/2doParcial/obj/Debug/net5.0/2doParcial.AssemblyInfoInputs.cache
+/home/charles/Documents/PROGRAMACION/ALGORITMOS/2doParcial/obj/Debug/net5.0/2doParcial.AssemblyInfo.vb
+/home/charles/Documents/PROGRAMACION/ALGORITMOS/2doParcial/obj/Debug/net5.0/2doParcial.vbproj.CoreCompileInputs.cache

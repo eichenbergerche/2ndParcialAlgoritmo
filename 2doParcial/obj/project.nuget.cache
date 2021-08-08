@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "Mhn1Qc+gW60FZEG3dHLkhUx/RVbLZBidqhhuw95xPVjICVBY7T4ATdE3xVffgEjgcP3o8MQo4vPE6BYUibJaSw==",
+  "success": true,
+  "projectFilePath": "/home/charles/Documents/PROGRAMACION/ALGORITMOS/2doParcial/2doParcial.vbproj",
+  "expectedPackageFiles": [
+    "/home/charles/.nuget/packages/microsoft.aspnetcore.app.ref/5.0.0/microsoft.aspnetcore.app.ref.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
